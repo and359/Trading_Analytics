@@ -257,7 +257,7 @@
 	<div class="navbar-fixed">
 	<nav>
 		<div class="nav-wrapper">
-			<a href="#" class="brand-logo center">Trading Results: </a>
+			<a href="#" class="brand-logo center">Trading Results </a>
 			<a href="" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>		
 		</div>
 	</nav>
@@ -337,8 +337,7 @@
 								 	}, 1000);
 								});
 								
-								myChart.destroy();
-								myChart3.destroy();
+								myChart.destroy();								
 								//var chr3=document.getElementById("myChart").getContext("2d");
 								var tweet_txt1 = txt;
 								var tweet_txt3 = txt;
@@ -445,7 +444,7 @@
 								b4ifdateIVW = "";
 								b4ifpxIVW = "";
 								
-								var myChart3=new Chart(chr, {
+								 myChart=new Chart(chr, {
 								//var chart = new Chart(ctx, {
 								   type: 'line',
 								   data: {
@@ -482,7 +481,7 @@
 								b4ifpxETSY = "";
 								b4ifdateIVW = "";
 								b4ifpxIVW = "";
-								var myChart3=new Chart(chr, {
+								myChart=new Chart(chr, {
 								//var chart = new Chart(ctx, {
 								   type: 'line',
 								   data: {
@@ -519,7 +518,7 @@
 								b4ifpxETSY = "";
 								b4ifdateTSLA = "";
 								b4ifpxTSLA = "";
-								var myChart3=new Chart(chr, {
+								 myChart=new Chart(chr, {
 								//var chart = new Chart(ctx, {
 								   type: 'line',
 								   data: {
