@@ -43,7 +43,7 @@
 			background-image: linear-gradient(to top left,black,black);
 		}
 		nav{
-			background-image: linear-gradient(to top right,red,yellow); 
+			background-image: linear-gradient(to top right,darkgreen,lime); 
 			padding-left: 20
 			padding-right: -200px;
 		}
