@@ -40,11 +40,11 @@
 
 	<style type="text/css">
 		.bg{
-			background-image: linear-gradient(to top left,black,blue);
+			background-image: linear-gradient(to top left,black,black);
 		}
 		nav{
 			background-image: linear-gradient(to top right,red,yellow); 
-			padding-left: 200px;
+			padding-left: 20
 			padding-right: -200px;
 		}
 		.content{
