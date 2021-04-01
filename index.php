@@ -574,9 +574,7 @@
 				<div class="card card-bg white-text">
 					<div class="card-content center">
 						<p>Net Gain/Loss</p>
-						<h5>2,476.00</h5>
-						<!--<i class="material-icons small red-text">keyboard_arrow_down</i><br>-->
-						<!--<b class="red-text">%10</b>-->
+						<h5>2,476.00</h5>						
 						<i class="material-icons small green-text">keyboard_arrow_up</i><br>
 						<b class="green-text">100%</b>
 					</div>
