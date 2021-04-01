@@ -560,7 +560,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col s12 m6 l3">
+			<!--<div class="col s12 m6 l3">
 				<div class="card card-bg white-text">
 					<div class="card-content center">
 						<p>Total Equity</p>
@@ -601,7 +601,7 @@
 						<b class="green-text">100%</b>
 					</div>
 				</div>
-			</div>
+			</div>-->
 			<div class="col l12 m6 s12">
 				<div class="card card-bg">
 					<div class="card-content">
