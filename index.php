@@ -743,11 +743,11 @@ var myChart=new Chart(chr, {
     },
 
     caption: {
-        text: 'This chart uses the Highcharts Annotations feature to place labels at various points of interest. The labels are responsive and will be hidden to avoid overlap on small screens.'
+        text: 'Select the dropdown panel at the top-right for more options.'
     },
 
     title: {
-        text: 'Monte Carlo Simulation'
+        text: 'Backtest Result'
     },
 
         credits: {
